@@ -6,6 +6,6 @@
   <h3> You are doing good work ... </h3>
   <h1> Latest revision</h1>  
 <h1> Java tomcat application updated</h1> 
-<h1> benim repoyu guncelledim</h1> 
+<h1> benim repoyu guncelledim-jenkins</h1> 
 </body>
 </html>
